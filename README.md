@@ -1,11 +1,10 @@
-# Customer-Segmentation
-Online Retail Customer Segmentation - Unsupervised Machine Learning Project
+# Online_Retail_Customer_Segmentation
 
-Problem Description -
+## Problem Description -
 In this project, your task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
-# Online_Retail_Customer_Segmentation
-# The need of customer segmentation:
+
+## The need of customer segmentation:
 The differences in customers' behaviour, demographics, geographies, etc. help in classifying them in groups. Learning about different groups in the customer can help with following:
 
 Target Marketing
